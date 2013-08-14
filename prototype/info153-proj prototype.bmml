@@ -1,0 +1,259 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1218" measuredH="3086" mockupW="954" mockupH="3083">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="3" w="954" h="526" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20a%20Major%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="279" y="140" w="917" h="359" measuredW="200" measuredH="178" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Home%20%0AEvent%0AQuiz%0AContact%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::CoverFlow" x="358" y="158" w="574" h="323" measuredW="493" measuredH="198" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SearchBox" x="968" y="109" w="228" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="947" y="158" w="227" h="323" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>20</size>
+        <state>focused</state>
+        <text>Login%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="966" y="399" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="1083" y="399" w="-1" h="-1" measuredW="73" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Register</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="1042" y="213" w="114" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="1042" y="300" w="114" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Title" x="279" y="84" w="-1" h="-1" measuredW="527" measuredH="50" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Major%20Help%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="958" y="216" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Username%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="958" y="303" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="694" w="954" h="526" measuredW="450" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20a%20Major%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="279" y="831" w="917" h="359" measuredW="200" measuredH="178" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Home%20%0AEvent%0AQuiz%0AContact%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::SearchBox" x="968" y="800" w="228" h="-1" measuredW="120" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Title" x="279" y="775" w="-1" h="-1" measuredW="527" measuredH="50" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Major%20Help%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="620" y="543" w="164" h="21" measuredW="89" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Home%20Page</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Calendar" x="374" y="853" w="425" h="314" measuredW="96" measuredH="96" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::List" x="829" y="929" w="345" h="232" measuredW="100" measuredH="149" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Career%20Fair%3A%20September%2030%2C2013%0APixar%20Info%20Session%3A%20Friday%2C%20September%2029%2C3013%0AMacy%27s%20Info%20Session%3A%20Friday%2C%20September%2029%2C2013%0ABussiness%20Undergraduate%20Career%20Fair%3A%20%0A%09Monday%2C%20October%2010%2C%202013%20%28day%201%29%0A%09Tuesday%2C%20October%2011%2C2013%20%28day%202%29%0AGoogle%20Info%20Session%3A%20Friday%2C%20October%2014%2C%202013</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="829" y="865" w="171" h="49" measuredW="163" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Upcoming%20Events%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="1334" w="954" h="526" measuredW="450" measuredH="400" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20a%20Major%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="279" y="1471" w="917" h="359" measuredW="200" measuredH="178" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Home%20%0AEvent%0AQuiz%0AContact%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SearchBox" x="968" y="1440" w="228" h="-1" measuredW="120" measuredH="25" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Title" x="279" y="1415" w="-1" h="-1" measuredW="527" measuredH="50" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Major%20Help%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="647" y="1226" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Event%20Page</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="351" y="1478" w="-1" h="-1" measuredW="182" measuredH="33" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Choose%20A%20Major%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="351" y="1505" w="-1" h="-1" measuredW="194" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Check%20fields%20that%20interested%20you%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="358" y="1526" w="-1" h="-1" measuredW="112" measuredH="126" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20business%0A%5B%20%5D%20law%0A%5Bx%5D%20math%0A%5Bx%5D%20engineer%0A%5B%20%5D%20social%20study%09%0A%5B%5D%20sport</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="696" y="1505" w="-1" h="-1" measuredW="214" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Check%20fields%20that%20inot%20nterested%20you%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="702" y="1526" w="-1" h="-1" measuredW="112" measuredH="126" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20business%0A%5B%20%5D%20law%0A%5B%20%5D%20math%0A%5B%20%5D%20engineer%0A%5B%20%5D%20social%20study%09%0A%5Bx%5D%20sport</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Accordion" x="351" y="1661" w="707" h="161" measuredW="150" measuredH="240" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Engineering%0A-Mechanical%20Engineer%0A-Civil%20Engineer%0ABusiness%0APsycholochy%0AChemistry</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="1897" w="954" h="526" measuredW="450" measuredH="400" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20a%20Major%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="279" y="2034" w="917" h="359" measuredW="200" measuredH="178" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Home%20%0AEvent%0AQuiz%0AContact%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SearchBox" x="968" y="2003" w="228" h="-1" measuredW="120" measuredH="25" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Title" x="279" y="1978" w="-1" h="-1" measuredW="527" measuredH="50" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Major%20Help%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Label" x="367" y="2043" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Result%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Title" x="430" y="2041" w="-1" h="-1" measuredW="331" measuredH="50" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Computer%20Science</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="364" y="2091" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Paragraph" x="465" y="2096" w="691" h="71" measuredW="200" measuredH="80" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20general%20program%20that%20focuses%20on%20computers%2C%20computing%20problems%20and%20solutions%2C%20and%20the%20design%20of%20computer%20systems%20and%20user%20interfaces%20from%20a%20scientific%20perspective.%20Includes%20instruction%20in%20the%20principles%20of%20computational%20science%2C%20and%20computing%20theory%3B%20computer%20hardware%20design%3B%20computer%20development%20and%20programming%3B%20and%20applications%20to%20a%20variety%20of%20end-use%20situations.</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="364" y="2182" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Popularity%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Paragraph" x="465" y="2188" w="190" h="196" measuredW="200" measuredH="80" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Certificate%3A%09%23386%0969%0A%20%0AAssociate%27s%3A%09%23117%09794%0A%20%0ABachelor%27s%3A%09%2345%097%2C830%0A%20%0AGraduate%20Certificate%3A%09%23112%0967%0A%20%0AMaster%27s%3A%09%2321%095%2C221%0A%20%0ADoctorate%3A%09%2322%09400%0A%20%0AFirst-Professional%3A%09N/A%090</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="264" y="2560" w="954" h="526" measuredW="450" measuredH="400" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20a%20Major%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="279" y="2697" w="917" h="359" measuredW="200" measuredH="178" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Home%20%0AEvent%0AQuiz%0AContact%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::SearchBox" x="968" y="2666" w="228" h="-1" measuredW="120" measuredH="25" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Title" x="279" y="2641" w="-1" h="-1" measuredW="527" measuredH="50" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Welcome%20to%20Major%20Help%20Guide</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="643" y="2436" w="-1" h="-1" measuredW="80" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Event%20Pages</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Paragraph" x="413" y="2723" w="200" h="217" measuredW="200" measuredH="80" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UC%20Berkeley-%20Team%20Awesome%0AEmail%3A%20abc@berkeley.edu%0A%20%0AQuestion%3A%0A%20%0ATitle%3A%20%0A%20%0A%20%0AAbout%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::TextInput" x="461" y="2799" w="221" h="-1" measuredW="79" measuredH="27" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::TextArea" x="461" y="2847" w="221" h="140" measuredW="200" measuredH="140" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Button" x="623" y="3008" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Send</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
