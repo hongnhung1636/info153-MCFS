@@ -28,8 +28,8 @@
         <ul>
         	<li><a href="index.html" class="current">Home</a></li>
           <li><a href="calendar.html">Calendar</a></li>
-          <li><a href="privacy.html">Quiz</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="quiz.html">Majors</a></li>
+          <li><a href="contacts.html">Contact</a></li>
    
         </ul>
       </nav>
@@ -83,51 +83,42 @@
           <section id="content">
             <article>
             	<h2>Welcome to <span>MCFS!! </span>              </h2>
+              <p >MCFS stands for Major Choose For Students, this is a website providing detailed information on various majors and supply best chance for you to detect which major is suitable for you!</p>
            	  <figure><a href="#"><img src="images/banner2.jpg" alt=""></a></figure>
-  <table border=0 id="formContainer1" style="padding:10px;">
-    <tr>
-      <td align=right style="padding-right:5px; color:#000;">
+  <table border=1 id="formContainer1" style="padding:10px;">
+    <tr >
+      <td  style="padding-right:5px; color:#000;">
         First Name
       </td>
-      <td align=left style="padding:5px; color:#000;">
+      <td  style="padding:5px; color:#000;">
         <input id="f1" type=text size=20
-          jVal="{valid:function (val) { if (val.length < 3) return false; else return true; }, message:'Required Field', styleType:'cover'}">
+         >
       </td>
     </tr>
     <tr>
-      <td align=right style="padding-right:5px;color:#000;">
+      <td  style="padding-right:5px;color:#000;">
         Email Address
       </td>
-      <td align=left style="padding:5px; color:#000;">
+      <td  style="padding:5px; color:#000;">
         <input id="f3" type=text size=40
-          jVal="{valid:/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/, message:'Invalid Email Address', styleType:'cover'}"
-          jValKey="{valid:/[a-zA-Z0-9._%+-@]/, cFunc:'alert', cArgs:['Email Address: '+$(this).val()]}">
+          >
       </td>
     </tr>
     
     <tr>
-      <td align=right style="padding-right:5px;color:#000;">
+      <td  style="padding-right:5px;color:#000;">
         Password
       </td>
-      <td align=left style="padding:5px; color:#000;">
+      <td style="padding:5px; color:#000;">
         <input id="password" type=text
-          jVal="{valid:function (val) { if (val.length < 4) return false; else return true; }, message:'Password of 4 or more characters required', styleType:'pod'}">
-      </td>
-    </tr>
-    <tr>
-      <td align=right style="padding-right:5px;color:#000;">
-        Verify Password
-      </td>
-      <td align=left style="padding:5px; color:#000;">
-        <input id="passwordVerify" type=text
-          jVal="{valid:function (val) { if ( val != eval('$(\'#password\').val()') ) return false; else return true; }, message:'Password and Verify Password Must Match', styleType:'pod'}">
+          >
       </td>
     </tr>
 
     <tr>
       <td >
       </td>
-      <td align=left style="padding:5px;">
+      <td  style="padding:5px;">
         <input type=button value="Login" onClick="if ( $('#formContainer1').jVal() ) document.form.submit();">
         <input type=button value="Register" onClick="if ( $('#formContainer1').jVal() ) document.form.submit();">
       </td>
@@ -135,7 +126,7 @@
 
     <tr>
       <td></td>
-      
+      <td></td>
     </tr>
   </table>
 

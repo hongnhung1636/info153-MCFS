@@ -16,6 +16,7 @@ html, body { height:100%;}
 
 
 /* Global Structure ============================================================= */
+
 .container {
 	margin: 0 auto;
 	position: relative;
@@ -40,8 +41,12 @@ html, body { height:100%;}
 	/* Content */
 	#content {
 		float: left;
-		width: 936px;
-		height:500px;
+		width: 512px;
+
+	}
+
+	#quizcontent {
+		width:936px;
 	}
 	
 	/* Sidebar */
@@ -115,7 +120,11 @@ p {margin-bottom:18px;}
 .p2 { margin-bottom:18px;}
 .p3 { margin-bottom:27px;
 }
-
+hr{
+	size="1";
+	noshade="";
+	color="#CCDBE3;
+}
 
 /*----- txt, links, lines, titles -----*/
 a {
