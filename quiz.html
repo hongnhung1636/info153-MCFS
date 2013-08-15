@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home - Contact Page | Major Chose</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <link rel="stylesheet" type="text/css" href="css/jVal.css">
+  <link rel="stylesheet" type="text/css" href="css/quiz_style.css">
+  <script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/Humanst521_BT_400.font.js"></script>
+  <script type="text/javascript" src="js/Humanst521_Lt_BT_400.font.js"></script>
+  <script type="text/javascript" src="js/roundabout.js"></script>
+  <script type="text/javascript" src="js/roundabout_shapes.js"></script>
+  <script type="text/javascript" src="js/gallery_init.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <script type="text/javascript" src="js/quiz.js"></script>
+ 
+
+</head>
+
+<body>
+  <!-- header -->
+  <header>
+    <div class="container">
+    	<h1><a href="index.html">MCFS</a></h1>
+      <nav>
+        <ul>
+        	<li><a href="index.html" class="current">Home</a></li>
+          <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="quiz.html">Quiz</a></li>
+          <li><a href="contacts.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+	</header>
+
+  <div class="main-box">
+    <div class="container">
+      <div class="inside">
+        <div class="wrapper">
+          
+          <section id="quiz_content">
+          <div id="removeme">Remove</div>
+<div>
+  <button id="art">Art</button>
+  <button id="biology">Biology</button>
+  <button id="chemistry">Chemistry</button>
+  <button id="compsci">Computer Science</button>
+  <button id="engineering">Engineering</button>
+  <button id="english">English</button>
+  <button id="language">Foreign Language</button>
+  <button id="history">History</button>
+  <button id="math">Math</button>
+  <button id="physics">Physics</button>
+  <button id="science">Science(General)</button>
+</div>
+
+<div id="nowshowing">Now Showing: <div class = "filters" id="button_art">Art</div><div class = "filters" id="button_biology">Biology</div><div class = "filters" id="button_chemistry">Chemistry</div><div class = "filters" id="button_compsci">CompSci</div><div class = "filters" id="button_engineering">Engineering</div><div class = "filters" id="button_english">English</div><div class = "filters" id="button_language">Language</div><div class = "filters" id="button_history">History</div><div class = "filters" id="button_math">Math</div><div class = "filters" id="button_physics">Physics</div><div class = "filters" id="button_science">Science</div></div>
+
+<div>
+  <ul>
+    <li class="hide math" id="applied"> <a href="applied.html"> Applied Mathematics</a></li>
+    <li class="hide art history" id="artp">Art Practice</li>
+    <li class="hide biology physics science engineering" id="bioe">Bioengineering</li>
+    <li class="hide biology chemistry physics science" id="chemb">Chemical Biology</li>
+    <li class="hide chemistry physics science engineering" id="cheme">Chemical Engineering</li>
+    <li class="hide chemistry physics science" id="chem">Chemistry</li>
+    <li class="hide language" id="chinese">Chinese Language</li>
+    <li class="hide art english history" id="classics">Classics</li>
+    <li class="hide math compsci" id="cogsci">Cognitive Science</li>
+    <li class="hide english" id="complit">Comparative Literature</li>
+    <li class="hide compsci math" id="compsc">Computer Science</li>
+    <li class="hide math" id="econ">Economics</li>
+  	<li class="hide compsci math science engineering physics" id="eecs">  <a href="quiz1.html?pageId=3">Electrical Engineering and Computer Science</a></li>
+    <li class="hide history art" id="film">Film Studies</li>
+    <li class="hide history" id="hist">History</li>
+    <li class="hide history art" id="histart">History of Art</li>
+    <li class="hide math science engineering physics" id="ie">Industiral Engineering</li>
+    <li class="hide math science engineering physics" id="meche">Mechanical engineering</li>
+    <li class="hide art" id="music">Music</li>
+    <li class="hide english" id="rhet">Rhetoric</li>
+    <li class="hide math science physics" id="phys">Physics</li>
+    <li class="hide history english" id="polisci">Political Science</li>
+    <li class="hide biology science" id="public">Public Health</li>
+    <li class="hide language" id="spanish">Spanish</li>
+    <li class="hide math" id="stats">Statistics</li>
+    <li class="hide art history" id="theater">Theater, Dance, and Performance Studies</li>
+  </ul>
+</div>
+<iframe id="Form" style="width:100%; height:500px;"></iframe>
+<script>
+//关键在这里判断src
+var id = getUrlParam("pageId");
+if(id != null){document.getElementById('Form').src = "Untitled-"+id+".html";}
+</script>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <footer>
+    <div class="container">
+    	<div class="wrapper">
+        <div class="fleft"> Info153 - Summer 2013 </div>
+      </div>
+    </div>
+  </footer>
+  <script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>

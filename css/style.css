@@ -40,7 +40,12 @@ html, body { height:100%;}
 	/* Content */
 	#content {
 		float: left;
-		width: 572px;
+		width: 512px;
+
+	}
+
+	#quizcontent {
+		width:936px;
 	}
 	
 	/* Sidebar */
