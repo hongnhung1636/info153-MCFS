@@ -1,8 +1,11 @@
 info153-MCFS
 ============
 
-I153 final project
+I153 Final Project:
 
+MCFS - Major Choose For Students
+
+Description:
 Freshmen and Sophomore college students in the US have the challenge to decide which major they want 
 to focus on until graduation and what career to pursue but only have limited information and working 
 experience necessary to make an informed decision. Our target user is freshman or sophomores already 
@@ -15,13 +18,7 @@ still do not know. By developing this project, we seek to solve this problem tha
 undergraduates, as this is a crucial decision that can impact the rest of their professional careers. 
 
 Implementation: 
-HTML5
-CSS
-Javascript
-Jquery
+HTML5, CSS, Javascript, Jquery
 
 Team members:
-Le, Hong
-Oetomo, Kenneth
-Jiang, Bian
-Guo, Luyi
+Hong Le, Kenneth Oetomo, Bian Jiang, Luyi Guo
