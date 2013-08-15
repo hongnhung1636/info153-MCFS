@@ -21,7 +21,7 @@ Javascript
 Jquery
 
 Team members:
-1.	Le, Hong
-2.	Oetomo, Kenneth
-3.	Jiang, Bian
-4.	Guo, Luyi
+Le, Hong
+Oetomo, Kenneth
+Jiang, Bian
+Guo, Luyi
